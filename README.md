@@ -9,10 +9,12 @@ Core Java
     Annotations
     Serialization
     Thread Pool - (Servlet like model)
+    Thread Pool using Thread Pool classes provided by Java's
     JVM, Classloader
     XML Parsers
     Soket Programming
     Inter Process Communication
+    Garbage Collection
     
 Frameworks & Technologies
 ---------------------------
@@ -37,4 +39,5 @@ Frameworks & Technologies
     Hibernate
     Sphinx Search Engine
     Beanstalk
-    
+    JUnit
+    Log4J
