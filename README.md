@@ -15,6 +15,7 @@ Core Java
     Soket Programming
     Inter Process Communication
     Garbage Collection
+    JDBC - Stored procedure, Views, Prepared Statement
     
 Frameworks & Technologies
 ---------------------------
