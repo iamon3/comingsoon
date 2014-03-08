@@ -12,7 +12,7 @@ Core Java
     Thread Pool using Thread Pool classes provided by Java's
     JVM, Classloader
     XML Parsers
-    Soket Programming
+    HTTP server using Soket Programming and Connection/Thread Pool
     Inter Process Communication
     Garbage Collection
     JDBC - Stored procedure, Views, Prepared Statement
