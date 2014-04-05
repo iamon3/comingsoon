@@ -8,6 +8,7 @@ Core Java
 
     Annotations
     Serialization
+    java.util.concurrent, Stack, Queue, Priority Queue.
     Thread Pool - (Servlet like model)
     Thread Pool using Thread Pool classes provided by Java's
     JVM, Classloader
@@ -42,3 +43,5 @@ Frameworks & Technologies
     Beanstalk
     JUnit
     Log4J
+    Node.js
+    Angular.js
