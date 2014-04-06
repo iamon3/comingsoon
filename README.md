@@ -9,6 +9,7 @@ Core Java
     Annotations
     Serialization
     java.util.concurrent, Stack, Queue, Priority Queue.
+    Semaphore, mutex
     Thread Pool - (Servlet like model)
     Thread Pool using Thread Pool classes provided by Java's
     JVM, Classloader
