@@ -39,6 +39,7 @@ Frameworks & Technologies
     Servelet Based Web Application
     Struts
     Spring
+    Web Service using Spring 
     Hibernate
     Sphinx Search Engine
     Beanstalk
