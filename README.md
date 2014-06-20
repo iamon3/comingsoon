@@ -1,7 +1,7 @@
 comingsoon
 ===========
 
-List Of things which are in the pipeline of new addition.
+List of things which are in the pipeline of new addition.
 
 Core Java
 -------------
@@ -18,10 +18,12 @@ Core Java
     Inter Process Communication
     Garbage Collection
     JDBC - Stored procedure, Views, Prepared Statement
+    JPA
     
 Frameworks & Technologies
 ---------------------------
-
+    
+    memcache
     RPC
     JBoss Drools
     AMQP
