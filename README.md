@@ -49,3 +49,4 @@ Frameworks & Technologies
     Log4J
     Node.js
     Angular.js
+    SAML
