@@ -3,22 +3,32 @@ comingsoon
 
 List of things which are in the pipeline of new addition.
 
+Database
+-------------
+
+    Query performance.
+    Query profiler
+    Query optimizer
+    Transaction Management
+    Distributed Transaction
+    Isolation Levels
+    
 Core Java
 -------------
 
-    Annotations
-    Serialization
+    Annotations. Java's annotation package
     java.util.concurrent, Stack, Queue, Priority Queue.
     Semaphore, mutex
     Thread Pool - (Servlet like model)
-    Thread Pool using Thread Pool classes provided by Java's
     JVM, Classloader
     XML Parsers
     HTTP server using Soket Programming and Connection/Thread Pool
     Inter Process Communication
-    Garbage Collection
+    Garbage Collection. 
     JDBC - Stored procedure, Views, Prepared Statement
     JPA
+    JTA
+    JMap
     
 Frameworks & Technologies
 ---------------------------
@@ -42,7 +52,7 @@ Frameworks & Technologies
     Struts
     Spring
     Web Service using Spring 
-    Hibernate
+    Hibernate Caching in cluster environment, Connection Pooling
     Sphinx Search Engine
     Beanstalk
     JUnit
@@ -50,3 +60,8 @@ Frameworks & Technologies
     Node.js
     Angular.js
     SAML
+    RabbitMQ
+    OAuth
+    Apache Cloudstack
+    LDAP
+    OLAP / OLTP
