@@ -65,3 +65,4 @@ Frameworks & Technologies
     Apache Cloudstack
     LDAP
     OLAP / OLTP
+    Hadoop
