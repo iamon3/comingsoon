@@ -33,6 +33,7 @@ Core Java
 Frameworks & Technologies
 ---------------------------
     
+    HTTPS
     memcache
     RPC
     JBoss Drools
