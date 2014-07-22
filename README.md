@@ -34,6 +34,8 @@ Frameworks & Technologies
 ---------------------------
     
     HTTPS
+    HAProxy
+    Elastic Search
     memcache
     RPC
     JBoss Drools
