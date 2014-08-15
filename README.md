@@ -68,3 +68,7 @@ Frameworks & Technologies
     Apache Cloudstack
     LDAP
     OLAP / OLTP
+    Spring roo tool
+    Storm framework for realtime event processing
+    Cloudfactory
+    Google App Engine
