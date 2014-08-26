@@ -73,3 +73,6 @@ Frameworks & Technologies
     Cloudfactory
     Google App Engine
     mercurial : http://mercurial.selenic.com/
+    Bootstrap
+    javascript
+    ajax
