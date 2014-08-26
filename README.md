@@ -72,3 +72,4 @@ Frameworks & Technologies
     Storm framework for realtime event processing
     Cloudfactory
     Google App Engine
+    mercurial : http://mercurial.selenic.com/
