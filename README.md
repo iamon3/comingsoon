@@ -51,9 +51,7 @@ Frameworks & Technologies
     Apache Thrift
     Apache Solr
     Apache Lucene
-    Servelet Based Web Application
     Struts
-    Spring
     Web Service using Spring 
     Hibernate Caching in cluster environment, Connection Pooling
     Sphinx Search Engine
