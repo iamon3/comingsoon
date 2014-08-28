@@ -76,3 +76,4 @@ Frameworks & Technologies
     Bootstrap
     javascript
     ajax
+    Software Architectural Patterns e.g. SOA etc
