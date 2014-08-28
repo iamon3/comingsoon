@@ -75,3 +75,4 @@ Frameworks & Technologies
     javascript
     ajax
     Software Architectural Patterns e.g. SOA etc
+    UML
