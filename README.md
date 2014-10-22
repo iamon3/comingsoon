@@ -16,6 +16,8 @@ Database
 Core Java
 -------------
 
+    Java Debugger
+    Java Class Decompiler
     Annotations. Java's annotation package
     java.util.concurrent, Stack, Queue, Priority Queue.
     Semaphore, mutex
