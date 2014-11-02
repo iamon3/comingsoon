@@ -31,6 +31,8 @@ Core Java
     JPA
     JTA
     JMap
+    Google's Guava Libraries, Apache common's Java Libraries
+    Google's Guice (Google's Guice)
     
 Frameworks & Technologies
 ---------------------------
