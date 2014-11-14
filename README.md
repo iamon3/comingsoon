@@ -60,7 +60,7 @@ Frameworks & Technologies
     Hibernate Caching in cluster environment, Connection Pooling
     Sphinx Search Engine
     Beanstalk
-    JUnit
+    JUnit -- Also consider these annotations @TestRule, @Transactional, @Rule, @testModule
     Log4J
     Node.js
     Angular.js
@@ -81,3 +81,4 @@ Frameworks & Technologies
     Software Architectural Patterns e.g. SOA etc
     UML
     Network File System
+    DbUnit testing framework
