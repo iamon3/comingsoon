@@ -82,3 +82,21 @@ Frameworks & Technologies
     UML
     Network File System
     DbUnit testing framework
+
+Profiling
+-----------------------
+
+    - Java profiling : Analyze Heap Dump, Thread Dump thourgh tools JMap, jstack, jconsole, jvisualvm, 
+      Btrace (Production Equivalent),    DTrace etc
+
+
+Code Coverage
+------------------------
+
+    Method Coverage, Line Coverage through Sonar Cube, Eclemaa Eclipse plugin etc
+    
+Continuous Integration Tool
+-----------------------------
+
+    Apache Jenkins
+    
