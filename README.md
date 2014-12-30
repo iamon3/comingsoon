@@ -45,6 +45,7 @@ Frameworks & Technologies
     JBoss Drools
     AMQP
     JMS
+    JMX
     Quartz Scheduler
     NIO
     Netty.io
@@ -94,6 +95,11 @@ Code Coverage
 ------------------------
 
     Method Coverage, Line Coverage through Sonar Cube, Eclemaa Eclipse plugin etc
+    
+Code Qality Tools
+------------------------
+
+    Findbugs
     
 Continuous Integration Tool
 -----------------------------
