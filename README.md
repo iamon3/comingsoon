@@ -83,6 +83,7 @@ Frameworks & Technologies
     UML
     Network File System
     DbUnit testing framework
+    Google eventbus
 
 Profiling
 -----------------------
@@ -106,3 +107,7 @@ Continuous Integration Tool
 
     Apache Jenkins
     
+UML
+-----------------------
+
+      UMLet
