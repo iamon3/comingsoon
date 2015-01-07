@@ -115,4 +115,4 @@ UML
 Concurrent Distributed Application framework
 --------------------------------------------
 
-      Akka
+      Akka for distributed applications in JVM
