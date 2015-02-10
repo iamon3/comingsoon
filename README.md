@@ -84,6 +84,7 @@ Frameworks & Technologies
     Network File System
     DbUnit testing framework
     Google eventbus
+    Hazalcast - In memory open source data grid in Java.
 
 Profiling
 -----------------------
