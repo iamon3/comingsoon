@@ -123,6 +123,11 @@ Source code search
 
     OpenGrok
       
+Enterprise Search Based Application Development
+-----------------------------------------------
+
+    Attivio
+    
 Good Links
 -------------
 
