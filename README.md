@@ -85,6 +85,8 @@ Frameworks & Technologies
     DbUnit testing framework
     Google eventbus
     Hazalcast - In memory open source data grid in Java.
+    JGroup - Toolkit for Reliable Multicast communication messaging.can be used to create clusters whose nodes 
+             can send messages to each other.
 
 Profiling
 -----------------------
