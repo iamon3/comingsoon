@@ -62,7 +62,7 @@ Frameworks & Technologies
     Sphinx Search Engine
     Beanstalk
     JUnit -- Also consider these annotations @TestRule, @Transactional, @Rule, @testModule
-    Log4J
+    Log4J --  MDC(Mapped Diagnostic Context) log4j for Thread Local logging for same user.
     Node.js
     Angular.js
     SAML
