@@ -58,7 +58,7 @@ Frameworks & Technologies
     Apache Lucene
     Struts
     Web Service using Spring 
-    Hibernate Caching in cluster environment, Connection Pooling
+    Hibernate Caching in cluster environment, Connection Pooling, Enverse for Auditing
     Sphinx Search Engine
     Beanstalk
     JUnit -- Also consider these annotations @TestRule, @Transactional, @Rule, @testModule
