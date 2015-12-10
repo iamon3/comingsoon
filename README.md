@@ -130,9 +130,15 @@ Enterprise Search Based Application Development
 -----------------------------------------------
 
     Attivio
-    
-Good Links
+
+Hadoop World
 -------------
+
+    Apache Avro
+    
+
+Good Links For Software Design
+-------------------------------
 
     http://priyaaank.tumblr.com/post/95095165285/decoding-thoughtworks-coding-problems
     http://vampwillow.wordpress.com/2014/07/22/hacking-thoughtworks-recruitment-part-2-coding-problems/
