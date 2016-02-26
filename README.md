@@ -136,6 +136,12 @@ Hadoop World
 
     Apache Avro
     
+Workflow Schedulers
+-------------------
+
+    Apache Oozie
+    Airflow : http://pythonhosted.org/airflow/
+    Azkaban : https://azkaban.github.io/
 
 Good Links For Software Design
 -------------------------------
