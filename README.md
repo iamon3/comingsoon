@@ -12,6 +12,7 @@ Database
     Transaction Management
     Distributed Transaction
     Isolation Levels
+    Redshift, Snowflake, Vertica, H2, HSQL, Cassandra, MongoDB, Woldermart, MySQL
     
 Core Java
 -------------
@@ -46,7 +47,7 @@ Frameworks & Technologies
     AMQP
     JMS
     JMX
-    Quartz Scheduler
+    Quartz Scheduler, Oozie, Airflow
     NIO
     Netty.io
     Apache Cassandra
@@ -61,7 +62,7 @@ Frameworks & Technologies
     Hibernate Caching in cluster environment, Connection Pooling, Enverse for Auditing
     Sphinx Search Engine
     Beanstalk
-    JUnit -- Also consider these annotations @TestRule, @Transactional, @Rule, @testModule
+    JUnit -- Also consider these annotations @TestRule, @Transactional, @Rule, @testModule, @TestRunner, @Mock, @InjectMock
     Log4J --  MDC(Mapped Diagnostic Context) log4j for Thread Local logging for same user.
     Node.js
     Angular.js
@@ -110,6 +111,10 @@ Continuous Integration Tool
 -----------------------------
 
     Apache Jenkins
+    
+Deployment Tools
+----------------
+    Docker, Puppet, Vagrant, ansible etc, Salt, Mesos
     
 UML
 -----------------------
