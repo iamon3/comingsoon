@@ -95,6 +95,7 @@ Profiling
 
     - Java profiling : Analyze Heap Dump, Thread Dump thourgh tools JMap, jstack, jconsole, jvisualvm, 
       Btrace (Production Equivalent),    DTrace etc
+    - Codahale Metrics : Java library which gives you unparalleled insight into what your code does in production. Toolkit of ways to measure the behavior of critical components in your production environment.  
 
 
 Code Coverage
